@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-const shasank = {
+const Shashank = {
     role: "Full Stack Developer",
     location: "India 🇮🇳",
     currentFocus: ["System Design", "Advanced JS Patterns"],
@@ -80,7 +80,7 @@ const shasank = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Rajanal&custom_title=Shasank's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Rajanal&custom_title=Shashank's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true)
 
 </div>
 
