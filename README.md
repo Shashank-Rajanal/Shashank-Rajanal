@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Shasank Rajnal 👋
 
-<!--
-**Shashank-Rajanal/Shashank-Rajanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Problem Solver | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building scalable web applications and solving complex problems through code. Always learning, always growing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Full Stack Developer specializing in MERN stack
+- 🌱 Currently exploring advanced JavaScript patterns and system design
+- 🎯 Focused on writing clean, efficient, and maintainable code
+- ⚡ Love turning ideas into reality through code
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- JavaScript (ES6+)
+- React.js
+- Vite
+
+**Backend:**
+- Node.js
+- Express.js
+- MongoDB
+
+**Programming Languages:**
+- Java
+- C++
+- JavaScript
+
+**Database:**
+- SQL
+- MongoDB
+
+**Tools & Others:**
+- Git & GitHub
+- RESTful APIs
+- Version Control
+
+## 📊 GitHub Stats
+
+![Shasank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank-Rajanal&show_icons=true&theme=radical)
+
+---
+
+💬 Feel free to reach out for collaborations or just a friendly chat!
